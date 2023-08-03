@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: tranhoang280301/jenkin_github_gitops_k8s:7
+      - image: tranhoang280301/jenkin_github_gitops_k8s:8
         name: flaskdemo
         resources: {}
 status: {}
