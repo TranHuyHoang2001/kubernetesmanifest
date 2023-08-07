@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: tranhoang280301/deploy_kubernetes:8
+      - image: tranhoang280301/deploy_kubernetes:9
         name: flaskdemo
         resources: {}
 status: {}
